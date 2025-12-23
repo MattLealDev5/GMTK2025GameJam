@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_ghost",
   "bboxMode":2,
   "bbox_bottom":58,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"10f38746-f844-4cc4-8d39-f166a51013cf","name":"10f38746-f844-4cc4-8d39-f166a51013cf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"10f38746-f844-4cc4-8d39-f166a51013cf","name":"10f38746-f844-4cc4-8d39-f166a51013cf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Ghost",
-    "path":"folders/Sprites/Enemies/Ghost.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Enemies/Ghost/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

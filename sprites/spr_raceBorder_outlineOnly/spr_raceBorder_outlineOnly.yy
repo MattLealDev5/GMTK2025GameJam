@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_raceBorder_outlineOnly",
   "bboxMode":0,
   "bbox_bottom":1215,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"843c6482-b0ca-4458-bb70-5bf043131628","name":"843c6482-b0ca-4458-bb70-5bf043131628","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"843c6482-b0ca-4458-bb70-5bf043131628","name":"843c6482-b0ca-4458-bb70-5bf043131628","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Race Track",
-    "path":"folders/Sprites/Race Track.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Race Track/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

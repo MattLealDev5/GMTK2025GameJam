@@ -8,8 +8,8 @@
   "name":"Obj_Explosion",
   "overriddenProperties":[],
   "parent":{
-    "name":"Effects",
-    "path":"folders/Objects/Effects.yy",
+    "name":"Particles and Effects",
+    "path":"folders/Assets/Player/Particles and Effects.yy",
   },
   "parentObjectId":{
     "name":"Obj_Effect",

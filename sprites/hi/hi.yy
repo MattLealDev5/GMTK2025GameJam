@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"hi",
   "bboxMode":0,
   "bbox_bottom":29,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0963c461-2fa2-47fc-8413-b7baa4eb1a94","name":"0963c461-2fa2-47fc-8413-b7baa4eb1a94","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0963c461-2fa2-47fc-8413-b7baa4eb1a94","name":"0963c461-2fa2-47fc-8413-b7baa4eb1a94","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Temp",
-    "path":"folders/Sprites/Temp.yy",
+    "name":"Temp Sprites",
+    "path":"folders/Assets/Misc/Temp Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -10,8 +10,8 @@
   "name":"Obj_Checkpoint",
   "overriddenProperties":[],
   "parent":{
-    "name":"Race Track",
-    "path":"folders/Objects/Race Track.yy",
+    "name":"Objects",
+    "path":"folders/Assets/Race Track/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

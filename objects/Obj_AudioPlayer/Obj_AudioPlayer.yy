@@ -8,8 +8,8 @@
   "name":"Obj_AudioPlayer",
   "overriddenProperties":[],
   "parent":{
-    "name":"Persistent",
-    "path":"folders/Objects/Persistent.yy",
+    "name":"Audio",
+    "path":"folders/Assets/Persistent/Audio.yy",
   },
   "parentObjectId":null,
   "persistent":true,

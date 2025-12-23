@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_GhostHat",
   "bboxMode":0,
   "bbox_bottom":32,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"18fd1e93-cf8a-4113-89b7-abba0c1b5d70","name":"18fd1e93-cf8a-4113-89b7-abba0c1b5d70","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"18fd1e93-cf8a-4113-89b7-abba0c1b5d70","name":"18fd1e93-cf8a-4113-89b7-abba0c1b5d70","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":7,
   "parent":{
-    "name":"Ghost",
-    "path":"folders/Sprites/Enemies/Ghost.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Enemies/Ghost/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

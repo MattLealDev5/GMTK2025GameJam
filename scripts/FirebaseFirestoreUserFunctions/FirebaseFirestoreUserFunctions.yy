@@ -6,7 +6,7 @@
   "name":"FirebaseFirestoreUserFunctions",
   "parent":{
     "name":"Extensions",
-    "path":"folders/Firebase/Firebase Firestore/Extensions.yy",
+    "path":"folders/Extensions/Firebase/Firebase Firestore/Extensions.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

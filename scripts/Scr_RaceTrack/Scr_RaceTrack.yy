@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"Scr_RaceTrack",
   "parent":{
-    "name":"Gameplay",
-    "path":"folders/Scripts/Gameplay.yy",
+    "name":"Race Track",
+    "path":"folders/Assets/Race Track.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Msk_Checkpoint",
   "bboxMode":0,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"d9b95fdd-02ba-43f0-854a-ccba038e1556","name":"d9b95fdd-02ba-43f0-854a-ccba038e1556","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d9b95fdd-02ba-43f0-854a-ccba038e1556","name":"d9b95fdd-02ba-43f0-854a-ccba038e1556","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"Race Track",
+    "path":"folders/Assets/Race Track.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

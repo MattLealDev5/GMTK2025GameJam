@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_TankGround",
   "bboxMode":0,
   "bbox_bottom":37,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"994db4bc-4725-4e8c-9f64-267c88576e1f","name":"994db4bc-4725-4e8c-9f64-267c88576e1f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"994db4bc-4725-4e8c-9f64-267c88576e1f","name":"994db4bc-4725-4e8c-9f64-267c88576e1f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"Tank",
+    "path":"folders/Assets/Enemies/Tank and Mine/Sprites/Tank.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

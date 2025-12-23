@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_TankIdle",
   "bboxMode":0,
   "bbox_bottom":191,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"43371375-5fb8-439a-8479-264212fe592a","name":"43371375-5fb8-439a-8479-264212fe592a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4c5a364a-337e-4737-a9fd-2791d71767d8","name":"4c5a364a-337e-4737-a9fd-2791d71767d8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"43371375-5fb8-439a-8479-264212fe592a","name":"43371375-5fb8-439a-8479-264212fe592a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4c5a364a-337e-4737-a9fd-2791d71767d8","name":"4c5a364a-337e-4737-a9fd-2791d71767d8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -27,7 +27,7 @@
   "origin":9,
   "parent":{
     "name":"Tank",
-    "path":"folders/Sprites/Enemies/Tank.yy",
+    "path":"folders/Assets/Enemies/Tank and Mine/Sprites/Tank.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

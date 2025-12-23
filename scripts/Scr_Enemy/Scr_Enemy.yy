@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"Scr_Enemy",
   "parent":{
-    "name":"Gameplay",
-    "path":"folders/Scripts/Gameplay.yy",
+    "name":"General",
+    "path":"folders/Assets/Enemies/General.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

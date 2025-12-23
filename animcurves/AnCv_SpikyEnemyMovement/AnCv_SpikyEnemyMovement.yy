@@ -10,8 +10,8 @@
   "function":2,
   "name":"AnCv_SpikyEnemyMovement",
   "parent":{
-    "name":"Animation Curves",
-    "path":"folders/Animation Curves.yy",
+    "name":"Spiky",
+    "path":"folders/Assets/Enemies/Spiky.yy",
   },
   "resourceType":"GMAnimCurve",
   "resourceVersion":"2.0",

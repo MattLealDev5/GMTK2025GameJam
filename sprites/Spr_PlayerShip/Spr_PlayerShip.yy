@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_PlayerShip",
   "bboxMode":2,
   "bbox_bottom":23,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"b24f44ff-b498-401d-bc9d-19f506e82a03","name":"b24f44ff-b498-401d-bc9d-19f506e82a03","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"b24f44ff-b498-401d-bc9d-19f506e82a03","name":"b24f44ff-b498-401d-bc9d-19f506e82a03","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Temp",
-    "path":"folders/Sprites/Temp.yy",
+    "name":"Temp Sprites",
+    "path":"folders/Assets/Misc/Temp Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

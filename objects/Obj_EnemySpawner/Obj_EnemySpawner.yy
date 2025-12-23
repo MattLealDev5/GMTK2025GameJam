@@ -8,8 +8,8 @@
   "name":"Obj_EnemySpawner",
   "overriddenProperties":[],
   "parent":{
-    "name":"Backend",
-    "path":"folders/Objects/Enemies/Backend.yy",
+    "name":"General",
+    "path":"folders/Assets/Enemies/General.yy",
   },
   "parentObjectId":null,
   "persistent":false,

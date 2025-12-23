@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Particles",
-    "path":"folders/Particle Systems/Particles.yy",
+    "path":"folders/Assets/Particles and Effects/Particles/Particle Systems/Particles.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_Arrow",
   "bboxMode":0,
   "bbox_bottom":84,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ad6c9ae2-d578-428a-b18a-4809c98f7957","name":"ad6c9ae2-d578-428a-b18a-4809c98f7957","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ad6c9ae2-d578-428a-b18a-4809c98f7957","name":"ad6c9ae2-d578-428a-b18a-4809c98f7957","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Race Track",
-    "path":"folders/Sprites/Race Track.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Race Track/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

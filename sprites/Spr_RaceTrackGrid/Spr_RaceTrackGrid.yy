@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_RaceTrackGrid",
   "bboxMode":0,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"930536d2-9d09-486a-816e-5397ccb8ff5e","name":"930536d2-9d09-486a-816e-5397ccb8ff5e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"930536d2-9d09-486a-816e-5397ccb8ff5e","name":"930536d2-9d09-486a-816e-5397ccb8ff5e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Race Track",
-    "path":"folders/Sprites/Race Track.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Race Track/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

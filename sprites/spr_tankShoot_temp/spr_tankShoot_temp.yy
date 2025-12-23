@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_tankShoot_temp",
   "bboxMode":0,
   "bbox_bottom":190,
@@ -12,11 +12,11 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"72f0624f-17c4-4de5-a65e-3ca462c9a334","name":"72f0624f-17c4-4de5-a65e-3ca462c9a334","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"936f0b11-d0e3-4446-8e60-6c04d799b84d","name":"936f0b11-d0e3-4446-8e60-6c04d799b84d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"d20dd12e-5b45-404d-a4b9-dd76e0e70c4f","name":"d20dd12e-5b45-404d-a4b9-dd76e0e70c4f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1bb79e0c-6b7f-495d-aeb0-b88000e7f211","name":"1bb79e0c-6b7f-495d-aeb0-b88000e7f211","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"fd7a962a-64af-4f72-aa74-648986210b2a","name":"fd7a962a-64af-4f72-aa74-648986210b2a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"72f0624f-17c4-4de5-a65e-3ca462c9a334","name":"72f0624f-17c4-4de5-a65e-3ca462c9a334","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"936f0b11-d0e3-4446-8e60-6c04d799b84d","name":"936f0b11-d0e3-4446-8e60-6c04d799b84d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"d20dd12e-5b45-404d-a4b9-dd76e0e70c4f","name":"d20dd12e-5b45-404d-a4b9-dd76e0e70c4f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1bb79e0c-6b7f-495d-aeb0-b88000e7f211","name":"1bb79e0c-6b7f-495d-aeb0-b88000e7f211","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"fd7a962a-64af-4f72-aa74-648986210b2a","name":"fd7a962a-64af-4f72-aa74-648986210b2a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -30,7 +30,7 @@
   "origin":9,
   "parent":{
     "name":"Tank",
-    "path":"folders/Sprites/Enemies/Tank.yy",
+    "path":"folders/Assets/Enemies/Tank and Mine/Sprites/Tank.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

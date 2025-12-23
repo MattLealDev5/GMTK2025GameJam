@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_TankMine",
   "bboxMode":2,
   "bbox_bottom":22,
@@ -12,9 +12,9 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"5085b63b-8dbb-45a0-80cd-acb7dedec974","name":"5085b63b-8dbb-45a0-80cd-acb7dedec974","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"a9bc86e6-5ce0-4eb4-b406-47f54cfb4c71","name":"a9bc86e6-5ce0-4eb4-b406-47f54cfb4c71","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"42c49a08-b61c-452f-8426-4a000ece0209","name":"42c49a08-b61c-452f-8426-4a000ece0209","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5085b63b-8dbb-45a0-80cd-acb7dedec974","name":"5085b63b-8dbb-45a0-80cd-acb7dedec974","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a9bc86e6-5ce0-4eb4-b406-47f54cfb4c71","name":"a9bc86e6-5ce0-4eb4-b406-47f54cfb4c71","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"42c49a08-b61c-452f-8426-4a000ece0209","name":"42c49a08-b61c-452f-8426-4a000ece0209","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -27,8 +27,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Tank",
-    "path":"folders/Sprites/Enemies/Tank.yy",
+    "name":"Mine",
+    "path":"folders/Assets/Enemies/Tank and Mine/Sprites/Mine.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

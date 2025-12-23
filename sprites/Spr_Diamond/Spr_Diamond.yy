@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_Diamond",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"f340a1ad-b77c-46d8-8c60-2abca0357879","name":"f340a1ad-b77c-46d8-8c60-2abca0357879","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"f340a1ad-b77c-46d8-8c60-2abca0357879","name":"f340a1ad-b77c-46d8-8c60-2abca0357879","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Particles",
-    "path":"folders/Sprites/Particles.yy",
+    "path":"folders/Assets/Race Track/Particles.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_RockBreak",
   "bboxMode":0,
   "bbox_bottom":79,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"5fc02055-ac43-49ce-a701-2e72926c9c1e","name":"5fc02055-ac43-49ce-a701-2e72926c9c1e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4ffe34ba-261d-4ccb-b953-5117901b645d","name":"4ffe34ba-261d-4ccb-b953-5117901b645d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5fc02055-ac43-49ce-a701-2e72926c9c1e","name":"5fc02055-ac43-49ce-a701-2e72926c9c1e","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4ffe34ba-261d-4ccb-b953-5117901b645d","name":"4ffe34ba-261d-4ccb-b953-5117901b645d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Rock",
-    "path":"folders/Sprites/Enemies/Rock.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Enemies/Rock/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

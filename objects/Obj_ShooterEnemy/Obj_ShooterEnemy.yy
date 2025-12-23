@@ -10,8 +10,8 @@
   "name":"Obj_ShooterEnemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"Tank and Mine",
+    "path":"folders/Assets/Enemies/Tank and Mine.yy",
   },
   "parentObjectId":{
     "name":"Obj_Enemy",

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_EnemyLandMarker61",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"67b912d2-88b6-472b-b4d2-8c94ab78786a","name":"67b912d2-88b6-472b-b4d2-8c94ab78786a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"97337a4c-eb0d-4c60-971a-0d04339bf0c3","name":"97337a4c-eb0d-4c60-971a-0d04339bf0c3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"67b912d2-88b6-472b-b4d2-8c94ab78786a","name":"67b912d2-88b6-472b-b4d2-8c94ab78786a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"97337a4c-eb0d-4c60-971a-0d04339bf0c3","name":"97337a4c-eb0d-4c60-971a-0d04339bf0c3","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -27,7 +27,7 @@
   "origin":4,
   "parent":{
     "name":"Markers",
-    "path":"folders/Sprites/Enemies/Markers.yy",
+    "path":"folders/Assets/Enemies/Misc/Markers.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

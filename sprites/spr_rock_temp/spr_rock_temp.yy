@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_rock_temp",
   "bboxMode":2,
   "bbox_bottom":63,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"a0d14114-4d79-4e74-8235-75dffdfaa5b9","name":"a0d14114-4d79-4e74-8235-75dffdfaa5b9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"a0d14114-4d79-4e74-8235-75dffdfaa5b9","name":"a0d14114-4d79-4e74-8235-75dffdfaa5b9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Rock",
-    "path":"folders/Sprites/Enemies/Rock.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Enemies/Rock/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

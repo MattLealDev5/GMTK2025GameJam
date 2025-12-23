@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_RaceTrackFaceLaughing",
   "bboxMode":0,
   "bbox_bottom":259,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8005c209-c402-4380-a909-5c541044b0bf","name":"8005c209-c402-4380-a909-5c541044b0bf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"abbf73ef-7ac2-40a3-b3c2-28a0d06b0797","name":"abbf73ef-7ac2-40a3-b3c2-28a0d06b0797","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"8005c209-c402-4380-a909-5c541044b0bf","name":"8005c209-c402-4380-a909-5c541044b0bf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"abbf73ef-7ac2-40a3-b3c2-28a0d06b0797","name":"abbf73ef-7ac2-40a3-b3c2-28a0d06b0797","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -27,7 +27,7 @@
   "origin":4,
   "parent":{
     "name":"Laughing",
-    "path":"folders/Sprites/Race Track/The Face/Laughing.yy",
+    "path":"folders/Assets/Race Track/Sprites/The Face/Laughing.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

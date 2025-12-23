@@ -11,8 +11,8 @@
   "function":2,
   "name":"AnCv_EnemySpawnJump",
   "parent":{
-    "name":"Animation Curves",
-    "path":"folders/Animation Curves.yy",
+    "name":"General",
+    "path":"folders/Assets/Enemies/General.yy",
   },
   "resourceType":"GMAnimCurve",
   "resourceVersion":"2.0",

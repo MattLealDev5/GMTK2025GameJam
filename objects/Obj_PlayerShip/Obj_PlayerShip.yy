@@ -10,8 +10,8 @@
   "name":"Obj_PlayerShip",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Objects.yy",
+    "name":"Player",
+    "path":"folders/Assets/Player.yy",
   },
   "parentObjectId":null,
   "persistent":false,

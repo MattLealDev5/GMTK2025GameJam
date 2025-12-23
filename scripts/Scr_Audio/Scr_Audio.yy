@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"Scr_Audio",
   "parent":{
-    "name":"Misc",
-    "path":"folders/Scripts/Misc.yy",
+    "name":"Audio",
+    "path":"folders/Assets/Persistent/Audio.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_PlayerDash2",
   "bboxMode":0,
   "bbox_bottom":19,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"e69a6e29-1602-4d21-aaa7-560306c5bf62","name":"e69a6e29-1602-4d21-aaa7-560306c5bf62","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"e69a6e29-1602-4d21-aaa7-560306c5bf62","name":"e69a6e29-1602-4d21-aaa7-560306c5bf62","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":9,
   "parent":{
-    "name":"Player Fish",
-    "path":"folders/Sprites/Player Fish.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Player/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

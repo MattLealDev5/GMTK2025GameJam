@@ -8,8 +8,8 @@
   "name":"Obj_DustTrioEnemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"Enemy Groups",
+    "path":"folders/Assets/Enemies/Misc/Enemy Groups.yy",
   },
   "parentObjectId":null,
   "persistent":false,

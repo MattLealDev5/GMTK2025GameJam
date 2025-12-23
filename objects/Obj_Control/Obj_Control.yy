@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Persistent",
-    "path":"folders/Objects/Persistent.yy",
+    "path":"folders/Assets/Persistent.yy",
   },
   "parentObjectId":null,
   "persistent":true,

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_PlayerDead",
   "bboxMode":0,
   "bbox_bottom":45,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"63d7161c-fd15-4f37-9022-33b1a452abbf","name":"63d7161c-fd15-4f37-9022-33b1a452abbf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"63d7161c-fd15-4f37-9022-33b1a452abbf","name":"63d7161c-fd15-4f37-9022-33b1a452abbf","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Player Fish",
-    "path":"folders/Sprites/Player Fish.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Player/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -10,8 +10,8 @@
   "name":"Obj_SpikyEnemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"Spiky",
+    "path":"folders/Assets/Enemies/Spiky.yy",
   },
   "parentObjectId":{
     "name":"Obj_Enemy",

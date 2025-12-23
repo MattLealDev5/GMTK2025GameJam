@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_FruitLoopEnemy",
   "bboxMode":2,
   "bbox_bottom":28,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0a109db5-6765-48d6-9807-f5c9f1138595","name":"0a109db5-6765-48d6-9807-f5c9f1138595","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0a109db5-6765-48d6-9807-f5c9f1138595","name":"0a109db5-6765-48d6-9807-f5c9f1138595","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Temp",
-    "path":"folders/Sprites/Temp.yy",
+    "name":"Temp Sprites",
+    "path":"folders/Assets/Misc/Temp Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -13,8 +13,8 @@
   "name":"Obj_GhostEnemy",
   "overriddenProperties":[],
   "parent":{
-    "name":"Enemies",
-    "path":"folders/Objects/Enemies.yy",
+    "name":"Ghost",
+    "path":"folders/Assets/Enemies/Ghost.yy",
   },
   "parentObjectId":{
     "name":"Obj_Enemy",

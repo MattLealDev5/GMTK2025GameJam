@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Effects",
-    "path":"folders/Objects/Effects.yy",
+    "path":"folders/Assets/Enemies/Tank and Mine/Effects.yy",
   },
   "parentObjectId":{
     "name":"Obj_Effect",

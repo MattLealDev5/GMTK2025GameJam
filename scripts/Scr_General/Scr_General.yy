@@ -6,7 +6,7 @@
   "name":"Scr_General",
   "parent":{
     "name":"Misc",
-    "path":"folders/Scripts/Misc.yy",
+    "path":"folders/Assets/Misc.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

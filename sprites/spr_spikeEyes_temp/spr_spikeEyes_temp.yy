@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_spikeEyes_temp",
   "bboxMode":0,
   "bbox_bottom":30,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"af97bb21-c96f-44e6-a09f-0b85b487901f","name":"af97bb21-c96f-44e6-a09f-0b85b487901f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"af97bb21-c96f-44e6-a09f-0b85b487901f","name":"af97bb21-c96f-44e6-a09f-0b85b487901f","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Spiky",
-    "path":"folders/Sprites/Enemies/Spiky.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Enemies/Spiky/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

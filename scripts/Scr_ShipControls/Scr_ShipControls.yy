@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"Scr_ShipControls",
   "parent":{
-    "name":"Gameplay",
-    "path":"folders/Scripts/Gameplay.yy",
+    "name":"Player",
+    "path":"folders/Assets/Player.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

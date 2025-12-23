@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_dust_temp",
   "bboxMode":2,
   "bbox_bottom":36,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"ac7cd2a9-8db8-4d6f-b960-f93205878ab8","name":"ac7cd2a9-8db8-4d6f-b960-f93205878ab8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"0fe6785c-9ff6-4afb-815a-29c768933c8b","name":"0fe6785c-9ff6-4afb-815a-29c768933c8b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"ac7cd2a9-8db8-4d6f-b960-f93205878ab8","name":"ac7cd2a9-8db8-4d6f-b960-f93205878ab8","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0fe6785c-9ff6-4afb-815a-29c768933c8b","name":"0fe6785c-9ff6-4afb-815a-29c768933c8b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Dust",
-    "path":"folders/Sprites/Enemies/Dust.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Enemies/Dust/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

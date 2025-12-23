@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_tank_temp",
   "bboxMode":2,
   "bbox_bottom":161,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"0a02eaf2-16f2-407b-b714-c53defa6d288","name":"0a02eaf2-16f2-407b-b714-c53defa6d288","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"0a02eaf2-16f2-407b-b714-c53defa6d288","name":"0a02eaf2-16f2-407b-b714-c53defa6d288","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,7 +26,7 @@
   "origin":9,
   "parent":{
     "name":"Tank",
-    "path":"folders/Sprites/Enemies/Tank.yy",
+    "path":"folders/Assets/Enemies/Tank and Mine/Sprites/Tank.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_Bubble",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,8 +12,8 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"5ec225e1-4ff5-4dcc-801b-a0fe55781ca7","name":"5ec225e1-4ff5-4dcc-801b-a0fe55781ca7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"1693bd19-4fa0-4e98-bbd4-77eb0374f530","name":"1693bd19-4fa0-4e98-bbd4-77eb0374f530","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5ec225e1-4ff5-4dcc-801b-a0fe55781ca7","name":"5ec225e1-4ff5-4dcc-801b-a0fe55781ca7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"1693bd19-4fa0-4e98-bbd4-77eb0374f530","name":"1693bd19-4fa0-4e98-bbd4-77eb0374f530","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,8 +26,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Particles",
-    "path":"folders/Sprites/Particles.yy",
+    "name":"Particles and Effects",
+    "path":"folders/Assets/Player/Particles and Effects.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

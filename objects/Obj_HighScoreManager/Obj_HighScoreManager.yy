@@ -15,8 +15,8 @@
   "name":"Obj_HighScoreManager",
   "overriddenProperties":[],
   "parent":{
-    "name":"Persistent",
-    "path":"folders/Objects/Persistent.yy",
+    "name":"High Scores",
+    "path":"folders/Assets/Persistent/High Scores.yy",
   },
   "parentObjectId":null,
   "persistent":true,

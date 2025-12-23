@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"Scr_HighScore",
   "parent":{
-    "name":"Gameplay",
-    "path":"folders/Scripts/Gameplay.yy",
+    "name":"High Scores",
+    "path":"folders/Assets/Persistent/High Scores.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

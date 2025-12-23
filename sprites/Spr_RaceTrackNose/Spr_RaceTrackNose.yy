@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_RaceTrackNose",
   "bboxMode":0,
   "bbox_bottom":169,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"102f7733-b582-475f-9fbf-573621ecc36a","name":"102f7733-b582-475f-9fbf-573621ecc36a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"102f7733-b582-475f-9fbf-573621ecc36a","name":"102f7733-b582-475f-9fbf-573621ecc36a","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Staring",
-    "path":"folders/Sprites/Race Track/The Face/Staring.yy",
+    "path":"folders/Assets/Race Track/Sprites/The Face/Staring.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

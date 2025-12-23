@@ -13,7 +13,7 @@
   "out_tilevborder":0,
   "parent":{
     "name":"Tile Sets",
-    "path":"folders/Tile Sets.yy",
+    "path":"folders/Assets/Race Track/Tile Sets.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",

@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"spr_raceCircleScreen",
   "bboxMode":0,
   "bbox_bottom":335,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"5f74d840-7f15-43bc-bbc9-40f99ef26931","name":"5f74d840-7f15-43bc-bbc9-40f99ef26931","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5f74d840-7f15-43bc-bbc9-40f99ef26931","name":"5f74d840-7f15-43bc-bbc9-40f99ef26931","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"The Face",
-    "path":"folders/Sprites/Race Track/The Face.yy",
+    "path":"folders/Assets/Race Track/Sprites/The Face.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

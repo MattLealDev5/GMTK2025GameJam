@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_Confetti2",
   "bboxMode":0,
   "bbox_bottom":31,
@@ -12,11 +12,11 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"79b9c91e-93e3-4c2d-8b1b-fad016616094","name":"79b9c91e-93e3-4c2d-8b1b-fad016616094","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"485336d7-0903-46c8-9dc1-de526a757a59","name":"485336d7-0903-46c8-9dc1-de526a757a59","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"21db2634-0d67-4340-aa0e-d9e8c645802d","name":"21db2634-0d67-4340-aa0e-d9e8c645802d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"4ce20287-7b4c-4ce8-b14b-8feddebb15e7","name":"4ce20287-7b4c-4ce8-b14b-8feddebb15e7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"40c32086-6aeb-4092-b318-0024b8f4fb93","name":"40c32086-6aeb-4092-b318-0024b8f4fb93","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"79b9c91e-93e3-4c2d-8b1b-fad016616094","name":"79b9c91e-93e3-4c2d-8b1b-fad016616094","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"485336d7-0903-46c8-9dc1-de526a757a59","name":"485336d7-0903-46c8-9dc1-de526a757a59","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"21db2634-0d67-4340-aa0e-d9e8c645802d","name":"21db2634-0d67-4340-aa0e-d9e8c645802d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"4ce20287-7b4c-4ce8-b14b-8feddebb15e7","name":"4ce20287-7b4c-4ce8-b14b-8feddebb15e7","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"40c32086-6aeb-4092-b318-0024b8f4fb93","name":"40c32086-6aeb-4092-b318-0024b8f4fb93","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -30,7 +30,7 @@
   "origin":4,
   "parent":{
     "name":"Particles",
-    "path":"folders/Sprites/Particles.yy",
+    "path":"folders/Assets/Race Track/Particles.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

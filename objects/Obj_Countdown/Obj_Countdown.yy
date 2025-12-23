@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Effects",
-    "path":"folders/Objects/Effects.yy",
+    "path":"folders/Assets/Particles and Effects/Effects.yy",
   },
   "parentObjectId":{
     "name":"Obj_Effect",

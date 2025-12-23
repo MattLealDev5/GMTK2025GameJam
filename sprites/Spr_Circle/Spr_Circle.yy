@@ -1,5 +1,5 @@
 {
-  "$GMSprite":"",
+  "$GMSprite":"v2",
   "%Name":"Spr_Circle",
   "bboxMode":0,
   "bbox_bottom":23,
@@ -12,7 +12,7 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"5f71d516-f335-4d30-ad26-1b6ce1cb7773","name":"5f71d516-f335-4d30-ad26-1b6ce1cb7773","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"v1","%Name":"5f71d516-f335-4d30-ad26-1b6ce1cb7773","name":"5f71d516-f335-4d30-ad26-1b6ce1cb7773","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Particles",
-    "path":"folders/Sprites/Particles.yy",
+    "name":"Sprites",
+    "path":"folders/Assets/Enemies/Ghost/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

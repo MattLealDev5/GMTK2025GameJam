@@ -8,8 +8,8 @@
   "name":"Obj_MainMenu",
   "overriddenProperties":[],
   "parent":{
-    "name":"Menu",
-    "path":"folders/Objects/Menu.yy",
+    "name":"Objects",
+    "path":"folders/Assets/Menu/Objects.yy",
   },
   "parentObjectId":{
     "name":"Obj_Menu",
