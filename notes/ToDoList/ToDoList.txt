@@ -1,7 +1,12 @@
 Revamp to-do list:
 
-* Organize files to make jumping around less of a thing
 * Fixup areas of code that could use tidying up
 * Optimize the firebase integration
 * Revamp menus
 * Give a short delay when the high score screen shows up
+* Add cheat codes for cats and gauntlets
+
+
+Completed:
+
+✓ Organize files to make jumping around less of a thing
